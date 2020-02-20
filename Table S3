@@ -1,0 +1,1000 @@
+Event index	Index ID	Secondary ID	City	Province	Index - infection location	Index - symptom onset date since 1/1/20	Index - Age	Index - Sex	Secondary - infection location	Seconday - symptom onset date since 1/1/20	Seconday - Age	Seconday-Sex
+1	23	26	Tianjin	Tianjin	Tianjin	16	47	male	Tianjin	20	74	Female
+2	23	27	Tianjin	Tianjin	Tianjin	16	47	male	Tianjin	20	75	male
+3	28	30	Tianjin	Tianjin	Xiaogan	15	61	Female	Tianjin	21	61	male
+4	35	37	Tianjin	Tianjin	Tianjin	16	49	male	Tianjin	20	48	Female
+5	22	43	Tianjin	Tianjin	Wuhan	14	57	male	Tianjin	16	90	male
+6	49	53	Tianjin	Tianjin	Tianjin	18	35	male	Tianjin	22	66	male
+7	62	60	Tianjin	Tianjin	Beijing	15	43	Female	Tianjin	17	52	Female
+8	60	61	Tianjin	Tianjin	Tianjin	17	52	Female	Tianjin	18	53	male
+9	60	63	Tianjin	Tianjin	Tianjin	17	52	Female	Tianjin	11	35	Female
+10	63	64	Tianjin	Tianjin	Tianjin	11	35	Female	Tianjin	19	26	Female
+11	65	67	Tianjin	Tianjin	Tianjin	23	66	Female	Tianjin	20	37	Female
+12	66	71	Tianjin	Tianjin	Tianjin	17	36	Female	Tianjin	22	31	male
+13	68	74	Tianjin	Tianjin	Tianjin	21	46	Female	Tianjin	24	76	Female
+14	88	79	Tianjin	Tianjin	Tianjin	23	43	Female	Tianjin	23	45	male
+15	76	82	Tianjin	Tianjin	Tianjin	22	65	Female	Tianjin	21	65	male
+16	63	84	Tianjin	Tianjin	Tianjin	11	35	Female	Tianjin	24	42	Female
+17	63	85	Tianjin	Tianjin	Tianjin	11	35	Female	Tianjin	25	36	male
+18	76	86	Tianjin	Tianjin	Tianjin	22	65	Female	Tianjin	17	56	Female
+19	76	87	Tianjin	Tianjin	Tianjin	22	65	Female	Tianjin	21	65	male
+20	22	93	Tianjin	Tianjin	Wuhan	14	57	male	Tianjin	22	56	Female
+21	95	96	Tianjin	Tianjin	Tianjin	12	34	male	Tianjin	18	42	male
+22	97	98	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	12	59	male
+23	97	106	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	13	41	male
+24	97	107	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	13	61	male
+25	97	108	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	15	62	male
+26	109	110	Cangzhou	Hebei	Wuhan	13	29	Female	Cangzhou	18	85	Female
+27	97	111	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	14	72	Female
+28	103	112	Cangzhou	Hebei	Wuhan	15	38	male	Cangzhou	17	49	Female
+29	97	119	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	9	51	Female
+30	97	120	Cangzhou	Hebei	Wuhan	-1	80	male	Cangzhou	15	62	Female
+31	148	154	Tangshan	Hebei	Tangshan	18	28	Female	Tangshan	18	67	male
+32	154	155	Tangshan	Hebei	Tangshan	18	67	male	Tangshan	25	32	male
+33	154	157	Tangshan	Hebei	Tangshan	18	67	male	Tangshan	23	71	Female
+34	154	163	Tangshan	Hebei	Tangshan	18	67	male	Tangshan	30	45	male
+35	183	184	Shijiazhuang	Hebei	Guangzhou	14	42	male	Shijiazhuang	20	67	male
+36	201	202	Chengde	Hebei	Xiaogan	23		Female	Chengde	24		male
+37	211	220	Xingtai	Hebei	Wuhan	18	59	male	Xingtai	22	34	Female
+38	227	229	Qinhuangdao	Hebei	Beijing	13	27	male	Qinhuangdao	24	50	Female
+39	271	275	Langfang	Hebei	Wuhan	2	57	Female	Langfang	19	33	Female
+40	267	277	Langfang	Hebei	Wuhan	13	21	male	Langfang	23	35	male
+41	267	280	Langfang	Hebei	Wuhan	13	21	male	Langfang	28	35	male
+42	284	286	Langfang	Hebei	Langfang	17	30	male	Langfang	28	53	Female
+43	448	457	Chengdu	Sichuan	Chengdu	21	22	Female	Chengdu	18	47	male
+44	470	471	Chengdu	Sichuan	Hubei	23	31	Female	Chengdu	23	9	male
+45	479	480	Chengdu	Sichuan	No information	18	43	Female	Chengdu	18	64	Female
+46	465	483	Chengdu	Sichuan	Wuhan	21	47	male	Chengdu	25	47	Female
+47	500	499	Chengdu	Sichuan	Chengdu	13	55	male	Chengdu	20	54	Female
+48	521	527	Bazhong	Sichuan	Wuhan	21	34	male	Bazhong	25	28	Female
+49	521	528	Bazhong	Sichuan	Wuhan	21	34	male	Bazhong	25	60	Female
+50	521	529	Bazhong	Sichuan	Wuhan	21	34	male	Bazhong	25	4	male
+51	521	530	Bazhong	Sichuan	Wuhan	21	34	male	Bazhong	25	2	male
+52	514	531	Bazhong	Sichuan	Wuhan	16	52	Female	Bazhong	23	19	male
+53	525	532	Bazhong	Sichuan	Wuhan	19	45	male	Bazhong	22	53	Female
+54	559	563	Deyang	Sichuan	Wuhan	17	47	Female	Deyang	19	47	male
+55	559	564	Deyang	Sichuan	Wuhan	17	47	Female	Deyang	19	44	Female
+56	560	565	Deyang	Sichuan	Wuhan	18	53	male	Deyang	20	45	male
+57	559	566	Deyang	Sichuan	Wuhan	17	47	Female	Deyang	20	66	Female
+58	560	568	Deyang	Sichuan	Wuhan	18	53	male	Deyang	20	44	male
+59	567	570	Deyang	Sichuan	Jingzhou, Hubei Province	20	29	Female	Deyang	28	31	male
+60	559	571	Deyang	Sichuan	Wuhan	17	47	Female	Deyang	23	45	male
+61	578	581	Ganzi	Sichuan	Chengdu	22	51	male	Ganzi	23	49	male
+62	574	582	Ganzi	Sichuan	Wuhan	13	25	Female	Ganzi	24	28	Female
+63	610	611	Guang'an	Sichuan	No information	24	49	Female	Guang'an	26	45	male
+64	610	612	Guang'an	Sichuan	No information	24	49	Female	Guang'an	26	21	male
+65	623	624	Leshan	Sichuan	Wuhan	15	32	male	Leshan	26	49	Female
+66	625	626	Liangshan	Sichuan	Wuhan	13	28	Female	Liangshan	14	32	male
+67	635	636	Luzhou	Sichuan	Wuhan	15	31	male	Luzhou	15	24	Female
+68	654	653	Luzhou	Sichuan	Luzhou	15	50	Female	Luzhou	17	57	male
+69	655	656	Luzhou	Sichuan	No information	16	56	Female	Luzhou	16	63	male
+70	696	703	Nanchong	Sichuan	No information	20	47	male	Nanchong	22	67	Female
+71	686	704	Nanchong	Sichuan	No information	19	59	male	Nanchong	23	35	Female
+72	707	708	Neijiang	Sichuan	Wuhan	13	44	Female	Neijiang	13	47	male
+73	707	709	Neijiang	Sichuan	Wuhan	13	44	Female	Neijiang	13	16	male
+74	712	717	Neijiang	Sichuan	Wuhan	19	36	male	Neijiang	20	33	male
+75	707	723	Neijiang	Sichuan	Wuhan	13	44	Female	Neijiang	27	45	male
+76	725	726	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	19	48	Female
+77	725	727	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	19	50	Female
+78	725	728	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	19	24	male
+79	725	729	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	19	46	male
+80	725	730	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	19	18	male
+81	725	732	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	21	54	male
+82	732	733	Panzhihua	Sichuan	Panzhihua	21	54	male	Panzhihua	20	22	male
+83	725	734	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	24	78	Female
+84	725	735	Panzhihua	Sichuan	No information	19	49	male	Panzhihua	28	48	Nana
+85	741	740	Suining	Sichuan	Wuhan	3	35	male	Suining	18	31	male
+86	787	786	Fuyang	Anhui	Wuhan	16	48	male	Fuyang	17	49	Female
+87	776	788	Fuyang	Anhui	Wuhan	8	21	Female	Fuyang	19	27	Female
+88	784	797	Fuyang	Anhui	Fuyang	10	44	male	Fuyang	16	45	Female
+89	784	798	Fuyang	Anhui	Fuyang	10	44	male	Fuyang	15	20	Female
+90	787	808	Fuyang	Anhui	Wuhan	16	48	male	Fuyang	20	21	Female
+91	801	816	Fuyang	Anhui	Wuhan	10	31	Female	Fuyang	16	30	male
+92	800	821	Fuyang	Anhui	Wuhan	18	47	male	Fuyang	22	41	Female
+93	800	822	Fuyang	Anhui	Wuhan	18	47	male	Fuyang	22	1	Female
+94	797	829	Fuyang	Anhui	Fuyang	16	45	Female	Fuyang	18	55	male
+95	830	831	Fuyang	Anhui	Fuyang	13	68	Female	Fuyang	15	67	male
+96	784	840	Fuyang	Anhui	Fuyang	10	44	male	Fuyang	21	25	male
+97	839	846	Fuyang	Anhui	Wuhan	18	47	male	Fuyang	17	46	Female
+98	823	850	Fuyang	Anhui	Xiao Shan	18	49	male	Fuyang	27	47	Female
+99	857	859	Hefei	Anhui	Wuhan	0	50	Female	Hefei	5	40	Female
+100	857	860	Hefei	Anhui	Wuhan	0	50	Female	Hefei	7	51	male
+101	859	868	Hefei	Anhui	Hefei	5	40	Female	Hefei	14	40	male
+102	869	870	Hefei	Anhui	Wuhan	12	22	male	Hefei	14	22	male
+103	869	871	Hefei	Anhui	Wuhan	12	22	male	Hefei	15	22	male
+104	869	872	Hefei	Anhui	Wuhan	12	22	male	Hefei	14	22	male
+105	869	873	Hefei	Anhui	Wuhan	12	22	male	Hefei	12	24	male
+106	899	898	Hefei	Anhui	Wuhan	18	28	male	Hefei	17	27	Female
+107	882	927	Hefei	Anhui	Wuhan	8	56	Female	Hefei	9	57	male
+108	978	948	Hefei	Anhui	Hefei	17	52	male	Hefei	24	43	Female
+109	944	980	Hefei	Anhui	No information	17	29	male	Hefei	27	55	male
+110	986	985	Hefei	Anhui	Hefei	12	73	Female	Hefei	21	78	male
+111	1001	1000	Huaibei	Anhui	Suzhou	18	27	male	Huaibei	18	57	Female
+112	994	1003	Huaibei	Anhui	Wuhan	-1	45	Female	Huaibei	16	28	Female
+113	1012	1014	Huainan	Anhui	Wuhan	9	59	Female	Huainan	12	62	male
+114	1047	1059	Lu'an	Anhui	Suzhou	15	34	male	Lu'an	18	57	Female
+115	1062	1063	Lu'an	Anhui	Lu'an	17	41	male	Lu'an	20	41	Female
+116	1064	1065	Lu'an	Anhui	Shanghai	19	37	male	Lu'an	23	33	Female
+117	1044	1066	Lu'an	Anhui	Bengbu	12	45	male	Lu'an	22	65	Female
+118	1035	1067	Lu'an	Anhui	Wuhan	8	38	male	Lu'an	23	37	Female
+119	1074	1068	Lu'an	Anhui	Wuhan	12	22	male	Lu'an	25	70	male
+120	1047	1069	Lu'an	Anhui	Suzhou	15	34	male	Lu'an	23	26	male
+121	1048	1070	Lu'an	Anhui	Lu'an	15	37	male	Lu'an	21	64	male
+122	1047	1071	Lu'an	Anhui	Suzhou	15	34	male	Lu'an	25	57	male
+123	1051	1073	Lu'an	Anhui	Wuhan	18	45	male	Lu'an	23	41	Female
+124	1064	1077	Lu'an	Anhui	Shanghai	19	37	male	Lu'an	26	61	Female
+125	1074	1079	Lu'an	Anhui	Wuhan	12	22	male	Lu'an	27	42	male
+126	1067	1083	Lu'an	Anhui	Lu'an	23	37	Female	Lu'an	26	42	male
+127	1067	1084	Lu'an	Anhui	Lu'an	23	37	Female	Lu'an	27	3	male
+128	1074	1086	Lu'an	Anhui	Wuhan	12	22	male	Lu'an	27	42	male
+129	1062	1087	Lu'an	Anhui	Lu'an	17	41	male	Lu'an	28	29	male
+130	1167	1168	Anqing	Anhui	Wuhan	13	25	male	Anqing	14	50	Female
+131	1167	1169	Anqing	Anhui	Wuhan	13	25	male	Anqing	16	53	male
+132	1205	1206	Anqing	Anhui	Anqing	17	57	male	Anqing	20	55	Female
+133	1205	1207	Anqing	Anhui	Anqing	17	57	male	Anqing	22	54	male
+134	1204	1210	Anqing	Anhui	Wuhan	24	53	Female	Anqing	25	57	male
+135	1204	1214	Anqing	Anhui	Wuhan	24	53	Female	Anqing	23	54	Female
+136	1270	1271	Bozhou	Anhui	Wuhan	15	71	male	Bozhou	16	70	Female
+137	1264	1281	Bozhou	Anhui	Wuhan	11	25	Female	Bozhou	18	22	male
+138	1270	1292	Bozhou	Anhui	Wuhan	15	71	male	Bozhou	16	37	Female
+139	1273	1297	Bozhou	Anhui	Bozhou	16	48	male	Bozhou	13	47	male
+140	1266	1305	Bozhou	Anhui	Wuhan	11	40	Female	Bozhou	16	25	male
+141	1313	1318	Bozhou	Anhui	Bozhou	20	50	male	Bozhou	24	26	male
+142	1326	1331	Bozhou	Anhui	Bozhou	23	48	male	Bozhou	22	42	Female
+143	1288	1332	Bozhou	Anhui	Bozhou	18	42	Female	Bozhou	17	38	male
+144	1270	1333	Bozhou	Anhui	Wuhan	15	71	male	Bozhou	23	43	male
+145	1284	1336	Bozhou	Anhui	Bozhou	19	47	male	Bozhou	21	56	male
+146	1284	1342	Bozhou	Anhui	Bozhou	19	47	male	Bozhou	24	21	male
+147	1288	1344	Bozhou	Anhui	Bozhou	18	42	Female	Bozhou	17	35	Female
+148	1377	1378	Suzhou	Anhui	Wuhan	2	49	male	Suzhou	5	46	Female
+149	1386	1390	Suzhou	Anhui	Wuhan	22	38	male	Suzhou	22	38	Female
+150	1386	1391	Suzhou	Anhui	Wuhan	22	38	male	Suzhou	26	39	Female
+151	1439	1452	Jinan	Shandong	Wuhan	9	32	male	Jinan	20	59	Female
+152	1462	1463	Jinan	Shandong	Jinan	13	49	Female	Jinan	16	22	Female
+153	1461	1472	Jinan	Shandong	Jinan	13	39	Female	Jinan	17	66	Female
+154	1496	1515	Qingdao	Shandong	Qingdao	15	28	male	Qingdao	25	43	Female
+155	1612	1613	Jining	Shandong	Beijing	15	48	male	Jining	18	44	Female
+156	1612	1614	Jining	Shandong	Beijing	15	48	male	Jining	19	38	Female
+157	1647	1651	Liaocheng	Shandong	Wuhan	16	32	male	Liaocheng	17	53	Female
+158	1648	1653	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	17	46	Female
+159	1648	1654	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	19	40	male
+160	1648	1659	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	21	65	Female
+161	1648	1660	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	19	19	male
+162	1648	1661	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	19	10	male
+163	1648	1662	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	21	43	male
+164	1648	1664	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	21	49	Female
+165	1648	1665	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	26	49	male
+166	1648	1667	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	12	41	Female
+167	1648	1669	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	14	73	Female
+168	1648	1670	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	17	62	male
+169	1648	1671	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	17	67	Female
+170	1648	1672	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	23	46	male
+171	1648	1673	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	21	68	Female
+172	1648	1674	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	23	72	male
+173	1648	1675	Liaocheng	Shandong	Liaocheng	17	40	male	Liaocheng	20	62	Female
+174	1684	1685	Linyi	Shandong	Wuhan	9	41	male	Linyi	15	38	Female
+175	1691	1699	Linyi	Shandong	Linyi	11	51	male	Linyi	14	47	Female
+176	1718	1725	sunshine	Shandong	Wuhan	13	57	male	sunshine	19	64	male
+177	1718	1727	sunshine	Shandong	Wuhan	13	57	male	sunshine	22	56	Female
+178	1734	1737	Taian	Shandong	Taian	14	88	Female	Taian	13	67	male
+179	1739	1740	Taian	Shandong	Wuhan	17	32	male	Taian	17	20	male
+180	1755	1760	Weihai	Shandong	No information	16	39	male	Weihai	15	66	male
+181	1761	1763	Weihai	Shandong	Weihai	13	51	male	Weihai	14	53	male
+182	1755	1764	Weihai	Shandong	No information	16	39	male	Weihai	17	66	Female
+183	1755	1771	Weihai	Shandong	No information	16	39	male	Weihai	23	3	male
+184	1759	1772	Weihai	Shandong	Wuhan	16	31	male	Weihai	18	56	male
+185	1766	1773	Weihai	Shandong	Wuhan	15	46	Female	Weihai	19	86	male
+186	1761	1777	Weihai	Shandong	Weihai	13	51	male	Weihai	18	50	Female
+187	1790	1791	Weifang	Shandong	No information	11	45	male	Weifang	10	33	male
+188	1790	1792	Weifang	Shandong	No information	11	45	male	Weifang	14	31	Female
+189	1790	1797	Weifang	Shandong	No information	11	45	male	Weifang	23	62	Female
+190	1790	1798	Weifang	Shandong	No information	11	45	male	Weifang	15	48	male
+191	1818	1819	Zaozhuang	Shandong	Wuhan	12	34	male	Zaozhuang	17	37	Female
+192	1818	1820	Zaozhuang	Shandong	Wuhan	12	34	male	Zaozhuang	17	60	Female
+193	1906	1904	Dongguan	Guangdong	Xiaogan	16	41	Female	Dongguan	19	9	Female
+194	1917	1918	Maoming	Guangdong	Suizhou City, Hubei Province	20	53	male	Maoming	23	53	male
+195	1980	1981	Zhuhai	Guangdong	Wuhan	10	36	male	Zhuhai	10	38	Female
+196	2011	2012	Zhuhai	Guangdong	Wuhan	16	37	Female	Zhuhai	16	67	Female
+197	2054	2063	Shenzhen	Guangdong	Wuhan	1	62	male	Shenzhen	10	62	Female
+198	2069	2085	Shenzhen	Guangdong	Wuhan	9	57	male	Shenzhen	10	54	Female
+199	2067	2115	Shenzhen	Guangdong	Wuhan	10	73	male	Shenzhen	14	49	male
+200	2067	2116	Shenzhen	Guangdong	Wuhan	10	73	male	Shenzhen	12	49	Female
+201	2076	2127	Shenzhen	Guangdong	Wuhan	11	49	Female	Shenzhen	11	26	Female
+202	2141	2142	Shenzhen	Guangdong	Wuhan	13	65	male	Shenzhen	14	38	Female
+203	2123	2155	Shenzhen	Guangdong	Wuhan	12	30	Female	Shenzhen	18	38	Female
+204	2134	2168	Shenzhen	Guangdong	Wuhan	14	51	male	Shenzhen	16	39	male
+205	2238	2178	Shenzhen	Guangdong	Wuhan	17	34	Female	Shenzhen	16	6	Female
+206	2176	2180	Shenzhen	Guangdong	Shenzhen	14	49	Female	Shenzhen	14	51	male
+207	2176	2181	Shenzhen	Guangdong	Shenzhen	14	49	Female	Shenzhen	13	25	Female
+208	2076	2193	Shenzhen	Guangdong	Wuhan	11	49	Female	Shenzhen	17	76	male
+209	2161	2201	Shenzhen	Guangdong	Lengshui River, Hunan	9	36	male	Shenzhen	16	34	Female
+210	2161	2202	Shenzhen	Guangdong	Lengshui River, Hunan	9	36	male	Shenzhen	15	63	Female
+211	2179	2212	Shenzhen	Guangdong	Wuhan	14	39	Female	Shenzhen	17	14	male
+212	2162	2216	Shenzhen	Guangdong	Wuhan	8	64	male	Shenzhen	14	37	male
+213	2227	2231	Shenzhen	Guangdong	Xianning, Hubei	16	56	Female	Shenzhen	19	29	Female
+214	2059	2235	Shenzhen	Guangdong	Wuhan	2	69	male	Shenzhen	15	25	Female
+215	2226	2250	Shenzhen	Guangdong	Zhijiang, Hubei	18	60	male	Shenzhen	20	32	male
+216	2226	2251	Shenzhen	Guangdong	Zhijiang, Hubei	18	60	male	Shenzhen	20	6	male
+217	2226	2252	Shenzhen	Guangdong	Zhijiang, Hubei	18	60	male	Shenzhen	14	53	Female
+218	2180	2263	Shenzhen	Guangdong	Shenzhen	14	51	male	Shenzhen	15	48	male
+219	2071	2265	Shenzhen	Guangdong	Wuhan	8	61	male	Shenzhen	12	61	Female
+220	2233	2266	Shenzhen	Guangdong	Wuhan	18	37	male	Shenzhen	21	60	Female
+221	2267	2268	Shenzhen	Guangdong	Jingzhou, Hubei	20	45	Female	Shenzhen	18	17	Female
+222	2125	2269	Shenzhen	Guangdong	Wuhan	13	78	male	Shenzhen	14	67	Female
+223	2264	2270	Shenzhen	Guangdong	Harbin	16	41	male	Shenzhen	19	40	Female
+224	2230	2271	Shenzhen	Guangdong	Wuhan	18	29	male	Shenzhen	15	50	male
+225	2230	2272	Shenzhen	Guangdong	Wuhan	18	29	male	Shenzhen	15	50	Female
+226	2232	2274	Shenzhen	Guangdong	Wuhan	16	41	male	Shenzhen	22	12	Female
+227	2246	2275	Shenzhen	Guangdong	Huanggang, Hubei	18	55	male	Shenzhen	22	8	male
+228	2245	2277	Shenzhen	Guangdong	Wuhan	14	33	Female	Shenzhen	21	7	Female
+229	2179	2278	Shenzhen	Guangdong	Wuhan	14	39	Female	Shenzhen	17	43	male
+230	2153	2279	Shenzhen	Guangdong	Wuhan	14	36	Female	Shenzhen	18	53	Female
+231	2219	2280	Shenzhen	Guangdong	Wuhan	13	41	male	Shenzhen	18	41	Female
+232	2257	2284	Shenzhen	Guangdong	Macao	16	36	male	Shenzhen	13	31	Female
+233	2267	2285	Shenzhen	Guangdong	Jingzhou, Hubei	20	45	Female	Shenzhen	16	13	male
+234	2256	2289	Shenzhen	Guangdong	Honghu, Hubei	12	56	Female	Shenzhen	20	31	male
+235	2161	2291	Shenzhen	Guangdong	Lengshui River, Hunan	9	36	male	Shenzhen	16	65	male
+236	2094	2294	Shenzhen	Guangdong	Wuhan	14	7	Female	Shenzhen	20	65	Female
+237	2253	2295	Shenzhen	Guangdong	Wuhan	19	9	Female	Shenzhen	17	46	male
+238	2267	2296	Shenzhen	Guangdong	Jingzhou, Hubei	20	45	Female	Shenzhen	12	50	male
+239	2261	2300	Shenzhen	Guangdong	Wuhan	14	59	Female	Shenzhen	15	34	Female
+240	2180	2302	Shenzhen	Guangdong	Shenzhen	14	51	male	Shenzhen	16	34	male
+241	2298	2303	Shenzhen	Guangdong	Xiaogan, Hubei	19	46	male	Shenzhen	17	18	male
+242	2173	2304	Shenzhen	Guangdong	Huanggang, Hubei	15	86	male	Shenzhen	19	45	Female
+243	2302	2308	Shenzhen	Guangdong	Shenzhen	16	34	male	Shenzhen	18	34	Female
+244	2302	2311	Shenzhen	Guangdong	Shenzhen	16	34	male	Shenzhen	18	4	Female
+245	2302	2314	Shenzhen	Guangdong	Shenzhen	16	34	male	Shenzhen	20	50	Female
+246	2182	2321	Shenzhen	Guangdong	Wuhan	13	47	Female	Shenzhen	12	79	Female
+247	2136	2322	Shenzhen	Guangdong	Wuhan	7	64	Female	Shenzhen	18	37	Female
+248	2327	2328	Shenzhen	Guangdong	Ezhou, Hubei	22	36	male	Shenzhen	22	37	Female
+249	2327	2329	Shenzhen	Guangdong	Ezhou, Hubei	22	36	male	Shenzhen	22	7	Female
+250	2188	2330	Shenzhen	Guangdong	Wuhan	16	78	male	Shenzhen	20	78	Female
+251	2325	2331	Shenzhen	Guangdong	Wuhan	15	55	Female	Shenzhen	16	56	male
+252	2256	2332	Shenzhen	Guangdong	Honghu, Hubei	12	56	Female	Shenzhen	20	28	Female
+253	2346	2347	Shenzhen	Guangdong	Ganzhou	25	23	Female	Shenzhen	24	31	male
+254	2356	2357	Shenzhen	Guangdong	Wuhan	17	50	male	Shenzhen	17	49	Female
+255	2292	2358	Shenzhen	Guangdong	Wuhan	20	40	male	Shenzhen	18	34	Female
+256	2292	2359	Shenzhen	Guangdong	Wuhan	20	40	male	Shenzhen	24	2	Female
+257	2315	2360	Shenzhen	Guangdong	Shenzhen	14	44	Female	Shenzhen	24	13	male
+258	2355	2361	Shenzhen	Guangdong	Malaysia-Singapore-Hong Kong	18	64	Female	Shenzhen	22	69	male
+259	2362	2363	Shenzhen	Guangdong	Ganzhou	17	56	male	Shenzhen	17	41	Female
+260	2240	2364	Shenzhen	Guangdong	Xianning, Hubei	17	35	male	Shenzhen	26	2	male
+261	2299	2366	Shenzhen	Guangdong	Wuhan	16	67	Female	Shenzhen	16	46	male
+262	2292	2368	Shenzhen	Guangdong	Wuhan	20	40	male	Shenzhen	26	66	Female
+263	2292	2369	Shenzhen	Guangdong	Wuhan	20	40	male	Shenzhen	26	66	male
+264	2218	2370	Shenzhen	Guangdong	Shenzhen	19	66	male	Shenzhen	26	60	Female
+265	2297	2371	Shenzhen	Guangdong	Qianjiang, Hubei	17	38	male	Shenzhen	19	5	Female
+266	2297	2372	Shenzhen	Guangdong	Qianjiang, Hubei	17	38	male	Shenzhen	24	36	Female
+267	2309	2373	Shenzhen	Guangdong	Wuhan	15	71	male	Shenzhen	25	66	Female
+268	2134	2374	Shenzhen	Guangdong	Wuhan	14	51	male	Shenzhen	26	2	male
+269	2632	2631	Yuxi	Yunnan	Wuhan	22	53	Female	Yuxi	21	70	Female
+270	2632	2633	Yuxi	Yunnan	Wuhan	22	53	Female	Yuxi	21	72	male
+271	2632	2634	Yuxi	Yunnan	Wuhan	22	53	Female	Yuxi	21	62	Female
+272	2632	2635	Yuxi	Yunnan	Wuhan	22	53	Female	Yuxi	21	37	Female
+273	2632	2637	Yuxi	Yunnan	Wuhan	22	53	Female	Yuxi	21	10	Female
+274	2690	2694	North Sea	Guangxi	Wuhan	13	31	Female	North Sea	16	31	male
+275	2690	2696	North Sea	Guangxi	Wuhan	13	31	Female	North Sea	21	2	male
+276	2684	2697	North Sea	Guangxi	Wuhan	10	41	Female	North Sea	20	43	male
+277	2695	2701	North Sea	Guangxi	North Sea	15	29	Female	North Sea	19	53	Female
+278	2723	2724	Guilin	Guangxi	Wuhan	9	34	Female	Guilin	13	10	Female
+279	2720	2731	Guilin	Guangxi	Wuhan	10	41	male	Guilin	15	70	male
+280	2732	2735	Guilin	Guangxi	Wuhan	10	33	Female	Guilin	17	42	male
+281	2736	2737	Guilin	Guangxi	Wuhan	17	30	male	Guilin	19	58	Female
+282	2741	2743	Guilin	Guangxi	Wuhan	21	24	male	Guilin	15	24	Female
+283	2742	2746	Guilin	Guangxi	North Sea	8	51	Female	Guilin	25	59	male
+284	2749	2751	Hechi	Guangxi	Wuhan	11	49	Female	Hechi	17	38	Female
+285	2755	2762	Hechi	Guangxi	Hechi	9	85	male	Hechi	20	36	Female
+286	2770	2771	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	15	41	male
+287	2770	2772	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	16	6	male
+288	2770	2773	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	18	65	male
+289	2770	2775	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	20	51	Female
+290	2776	2777	Liuzhou	Guangxi	Liuzhou	18	43	Female	Liuzhou	19	46	male
+291	2770	2779	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	21	20	male
+292	2770	2780	Liuzhou	Guangxi	Wuhan	12	27	Female	Liuzhou	21	2	male
+293	2784	2785	Nanning	Guangxi	Wuhan	14	67	Female	Nanning	14	70	male
+294	2784	2786	Nanning	Guangxi	Wuhan	14	67	Female	Nanning	14	35	Female
+295	2790	2791	Nanning	Guangxi	No information	21	49	male	Nanning	21	20	male
+296	2790	2792	Nanning	Guangxi	No information	21	49	male	Nanning	21	49	Female
+297	2790	2799	Nanning	Guangxi	No information	21	49	male	Nanning	23	90	male
+298	2800	2803	Nanning	Guangxi	Nanning	23	70	male	Nanning	25	5	Female
+299	2800	2804	Nanning	Guangxi	Nanning	23	70	male	Nanning	27	70	Female
+300	2813	2814	Yulin	Guangxi	No information	18	35	Female	Yulin	18	71	male
+301	2915	2916	Suzhou	Jiangsu	Wuhan	21	63	male	Suzhou	21	64	Female
+302	2915	2923	Suzhou	Jiangsu	Wuhan	21	63	male	Suzhou	17	9	Female
+303	2959	2960	Nanjing	Jiangsu	Nanjing	17	58	Female	Nanjing	22	72	Female
+304	2959	2961	Nanjing	Jiangsu	Nanjing	17	58	Female	Nanjing	21	68	male
+305	2989	2992	Xuzhou	Jiangsu	Wuhan	9		male	Xuzhou	14		Female
+306	2989	2993	Xuzhou	Jiangsu	Wuhan	9		male	Xuzhou	14		male
+307	2989	2994	Xuzhou	Jiangsu	Wuhan	9		male	Xuzhou	12		Female
+308	2996	3029	Xuzhou	Jiangsu	Wuhan	12		male	Xuzhou	20	71	Female
+309	3076	3077	Wuxi	Jiangsu	Wuxi	12	36	male	Wuxi	19	26	male
+310	3081	3082	Wuxi	Jiangsu	Hubei	13	58	male	Wuxi	15	31	Female
+311	3113	3118	Taizhou	Jiangsu	Shiyan	20	53	male	Taizhou	21	65	male
+312	3113	3119	Taizhou	Jiangsu	Shiyan	20	53	male	Taizhou	20	41	male
+313	3113	3120	Taizhou	Jiangsu	Shiyan	20	53	male	Taizhou	21	64	Female
+314	3135	3137	Nantong	Jiangsu	No information	15	67	male	Nantong	22	68	Female
+315	3142	3143	Nantong	Jiangsu	No information	17	56	male	Nantong	18	55	Female
+316	3162	3163	Lianyungang	Jiangsu	Lianyungang	23	52	male	Lianyungang	24	76	male
+317	3162	3164	Lianyungang	Jiangsu	Lianyungang	23	52	male	Lianyungang	25	53	Female
+318	3205	3213	Yangzhou	Jiangsu	Wuhan	11	47	Female	Yangzhou	12	23	Female
+319	3336	3337	Fuzhou	Jiangsu	Fuzhou	16	49	male	Fuzhou	18	59	Female
+320	3339	3338	Fuzhou	Jiangsu	Wuhan	18	44	Female	Fuzhou	19	49	male
+321	3339	3340	Fuzhou	Jiangsu	Wuhan	18	44	Female	Fuzhou	13	43	Female
+322	3353	3354	Fuzhou	Jiangsu	Fuzhou	16	45	male	Fuzhou	22	32	male
+323	3353	3355	Fuzhou	Jiangsu	Fuzhou	16	45	male	Fuzhou	22	32	Female
+324	3357	3356	Fuzhou	Jiangsu	Zhuzhou, Hunan Province	16	66	Female	Fuzhou	20	72	male
+325	3357	3371	Fuzhou	Jiangsu	Zhuzhou, Hunan Province	16	66	Female	Fuzhou	16	45	male
+326	3840	3841	Xinyang	Henan	Wuhan	8	46	male	Xinyang	9	80	Female
+327	3840	3842	Xinyang	Henan	Wuhan	8	46	male	Xinyang	13	46	Female
+328	3840	3843	Xinyang	Henan	Wuhan	8	46	male	Xinyang	12	45	Female
+329	3841	3844	Xinyang	Henan	Xinyang	9	80	Female	Xinyang	17	56	Female
+330	3845	3889	Xinyang	Henan	Xinyang	8	52	male	Xinyang	13	52	Female
+331	3905	3906	Xinyang	Henan	Xinyang	12	52	Female	Xinyang	13	27	Female
+332	3869	3913	Xinyang	Henan	Wuhan	11	56	Female	Xinyang	10	29	male
+333	3923	3924	Xinyang	Henan	Wuhan	14	46	Female	Xinyang	16	42	male
+334	3840	3934	Xinyang	Henan	Wuhan	8	46	male	Xinyang	19	57	male
+335	3908	3948	Xinyang	Henan	Wuhan	13	28	Female	Xinyang	21	26	male
+336	3905	3949	Xinyang	Henan	Xinyang	12	52	Female	Xinyang	19	54	male
+337	3907	3951	Xinyang	Henan	Xinyang	9	53	male	Xinyang	12	28	Female
+338	3951	3952	Xinyang	Henan	Xinyang	12	28	Female	Xinyang	16	52	Female
+339	3845	3955	Xinyang	Henan	Xinyang	8	52	male	Xinyang	18	44	male
+340	3899	3969	Xinyang	Henan	Wuhan	14	30	male	Xinyang	23	56	male
+341	3884	3973	Xinyang	Henan	Wuhan	17	27	male	Xinyang	25	1	male
+342	3884	3974	Xinyang	Henan	Wuhan	17	27	male	Xinyang	22	52	Female
+343	3995	3996	Xinyang	Henan	Xinyang	21	71	male	Xinyang	22	68	Female
+344	4011	4012	Xinyang	Henan	Xinyang	17	62	male	Xinyang	12	57	Female
+345	3907	4013	Xinyang	Henan	Xinyang	9	53	male	Xinyang	24	48	male
+346	3894	4014	Xinyang	Henan	Wuhan	16	61	male	Xinyang	20	60	Female
+347	3894	4015	Xinyang	Henan	Wuhan	16	61	male	Xinyang	17	32	male
+348	3867	4020	Xinyang	Henan	Wuhan	10	18	Female	Xinyang	22	69	Female
+349	4022	4023	Xinyang	Hubei	Wuhan	27	30	male	Xinyang	23	60	Female
+350	3938	4025	Xinyang	Henan	Xinyang	16	51	male	Xinyang	25	79	Female
+351	4089	4046	Nanyang	Hubei	Wuhan	19	36	male	Nanyang	9	29	Female
+352	4089	4047	Nanyang	Henan	Wuhan	19	36	male	Nanyang	9	58	male
+353	4027	4074	Nanyang	Henan	Wuhan	12	62	male	Nanyang	13	69	male
+354	4044	4081	Nanyang	Henan	Wuhan	10	55	Female	Nanyang	19	48	male
+355	4044	4082	Nanyang	Henan	Wuhan	10	55	Female	Nanyang	18	33	Female
+356	4044	4084	Nanyang	Henan	Wuhan	10	55	Female	Nanyang	20	30	Female
+357	4065	4088	Nanyang	Henan	Nanyang	4	59	male	Nanyang	14	56	Female
+358	4113	4114	Nanyang	Henan	Wuhan	15	33	male	Nanyang	15	6	male
+359	4044	4117	Nanyang	Henan	Wuhan	10	55	Female	Nanyang	21	33	Female
+360	4096	4119	Nanyang	Henan	Wuhan	7	57	male	Nanyang	21	50	Female
+361	4087	4120	Nanyang	Hubei	Wuhan	12	34	male	Nanyang	22	3	male
+362	4078	4124	Nanyang	Henan	Wuhan	19	22	male	Nanyang	22	54	Female
+363	4110	4134	Nanyang	Henan	Wuhan	20	29	male	Nanyang	23	59	Female
+364	4088	4135	Nanyang	Henan	Nanyang	14	56	Female	Nanyang	22	59	Female
+365	4109	4141	Nanyang	Henan	Xiangyang, Hubei	19	27	Female	Nanyang	25	64	Female
+366	4057	4142	Nanyang	Henan	Wuhan	12	29	male	Nanyang	22	30	male
+367	4116	4143	Nanyang	Henan	Nanyang	18	69	Female	Nanyang	24	54	male
+368	4065	4146	Nanyang	Henan	Nanyang	4	59	male	Nanyang	24	74	male
+369	4162	4163	Jiaozuo	Henan	Nanning, Guangxi Province	16	47	Female	Jiaozuo	21	83	Female
+370	4165	4166	Jiaozuo	Henan	No information	22	28	male	Jiaozuo	22	58	male
+371	4162	4167	Jiaozuo	Henan	Nanning, Guangxi Province	16	47	Female	Jiaozuo	11	52	male
+372	4163	4169	Jiaozuo	Henan	Jiaozuo	21	83	Female	Jiaozuo	21	31	male
+373	4171	4172	Jiaozuo	Henan	No information	22	52	male	Jiaozuo	22	51	Female
+374	4175	4176	Kaifeng	Henan	Wuhan	17	39	Female	Kaifeng	17	40	male
+375	4187	4188	Kaifeng	Henan	Wuhan	24	33	male	Kaifeng	24	33	Female
+376	4184	4190	Kaifeng	Henan	Shenzhen	22	33	male	Kaifeng	24	43	Female
+377	4183	4191	Kaifeng	Henan	Wuhan	17	30	male	Kaifeng	27	28	Female
+378	4192	4193	Anyang	Henan	Anyang	13	45	male	Anyang	4	47	Female
+379	4192	4194	Anyang	Henan	Anyang	13	45	male	Anyang	15	48	Female
+380	4266	4268	Xu Chang	Henan	Wuhan	14	51	Female	Xu Chang	17	29	Female
+381	4281	4282	Xu Chang	Henan	Wuhan	16	24	male	Xu Chang	19	51	Female
+382	4266	4283	Xu Chang	Henan	Wuhan	14	51	Female	Xu Chang	21	63	NaN
+383	4285	4286	Xu Chang	Henan	Xu Chang	17	60	Female	Xu Chang	18	59	male
+384	4320	4321	Hebi	Henan	Wuhan	25	31	male	Hebi	24	30	Female
+385	4322	4323	Hebi	Henan	Wuhan	29	53	male	Hebi	28	53	Female
+386	4322	4324	Hebi	Henan	Wuhan	29	53	male	Hebi	18	32	male
+387	4329	4330	Sanmenxia	Henan	Wuhan	12	49	Female	Sanmenxia	14	80	Female
+388	4347	4353	Shangqiu	Henan	Wuhan	14	32	male	Shangqiu	15	32	Female
+389	4339	4355	Shangqiu	Henan	Wuhan	14	45	Female	Shangqiu	16	50	male
+390	4402	4403	Zhoukou	Henan	Wuhan	11	21	male	Zhoukou	13	19	male
+391	4404	4405	Zhoukou	Henan	Wuhan	8	46	male	Zhoukou	9	49	Female
+392	4407	4408	Zhoukou	Henan	No information	7	26	male	Zhoukou	13	28	Female
+393	4407	4409	Zhoukou	Henan	No information	7	26	male	Zhoukou	14	51	Female
+394	4412	4433	Zhoukou	Henan	Wuhan	8	40	male	Zhoukou	17	44	Female
+395	4405	4440	Zhoukou	Henan	Zhoukou	9	49	Female	Zhoukou	11	79	Female
+396	4440	4447	Zhoukou	Henan	Zhoukou	11	79	Female	Zhoukou	19	70	Female
+397	4402	4449	Zhoukou	Hubei	Wuhan	11	21	male	Zhoukou	17	47	male
+398	4420	4452	Zhoukou	Hubei	Wuhan	13	35	male	Zhoukou	18	33	Female
+399	4420	4453	Zhoukou	Henan	Wuhan	13	35	male	Zhoukou	9	31	Female
+400	4456	4457	Zhoukou	Henan	Zhoukou	16	56	Female	Zhoukou	18	57	male
+401	4460	4462	Zhoukou	Henan	Zhoukou	19	70	male	Zhoukou	20	25	Female
+402	5512	5516	Jiaxing	Zhejiang	Wuhan	10	30	male	Jiaxing	14	52	Female
+403	5510	5517	Jiaxing	Zhejiang	Wuhan	8	57	male	Jiaxing	6	55	Female
+404	5550	5551	Lishui	Zhejiang	Yueqing	10	46	male	Lishui	14	72	male
+405	5770	5771	Huaihua	Hunan	Wuhan	-3	36	Female	Huaihua	0	31	male
+406	5871	5870	Changde	Hunan	Wuhan	12	51	Female	Changde	14	51	male
+407	6427	6430	Liaoyuan	Jilin	Wuhan	15	60	male	Liaoyuan	21	47	male
+408	6427	6431	Liaoyuan	Jilin	Wuhan	15	60	male	Liaoyuan	23	7	Female
+409	6453	6454	Shenyang	Liaoning	Wuhan	13	21	Female	Shenyang	14	44	male
+410	6453	6455	Shenyang	Liaoning	Wuhan	13	21	Female	Shenyang	15	45	Female
+411	6478	6480	Dalian	Liaoning	Wuhan	1	46	male	Dalian	14	78	Female
+412	6477	6487	Dalian	Liaoning	Wuhan	6	37	male	Dalian	20	63	Female
+413	6495	6496	Jinzhou	Liaoning	Wuhan	13	35	male	Jinzhou	18	34	Female
+414	6495	6499	Jinzhou	Liaoning	Wuhan	13	35	male	Jinzhou	21	8	Female
+415	6495	6500	Jinzhou	Liaoning	Wuhan	13	35	male	Jinzhou	29	55	Female
+416	6516	6519	Huludao	Liaoning	Wuhan	13	60	Female	Huludao	18	33	male
+417	6530	6531	Fuxin	Liaoning	Fuxin	13	55	Female	Fuxin	14	81	Female
+418	6533	6535	Tieling	Liaoning	No information	12	51	male	Tieling	15	51	male
+419	6544	6546	Chaoyang	Liaoning	Wuhan	12	42	male	Chaoyang	18	72	male
+420	6586	6591	Lanzhou	Gansu	Taizhou	13	44	male	Lanzhou	22	40	Female
+421	6585	6592	Lanzhou	Gansu	Lanzhou	18	73	Female	Lanzhou	20	49	male
+422	6585	6594	Lanzhou	Gansu	Lanzhou	18	73	Female	Lanzhou	26	46	Female
+423	6588	6606	Dingxi	Gansu	Thailand	11	51	Female	Dingxi	11	54	Female
+424	6588	6607	Dingxi	Gansu	Thailand	11	51	Female	Dingxi	14	29	Female
+425	6588	6608	Dingxi	Gansu	Thailand	11	51	Female	Dingxi	11	38	Female
+426	6609	6610	Pingliang	Gansu	Pingliang	20	29	male	Pingliang	22	27	Female
+427	6612	6620	Tianshui	Gansu	Wuhan	18	63	male	Tianshui	16	68	male
+428	6612	6621	Tianshui	Gansu	Wuhan	18	63	male	Tianshui	19	55	Female
+429	6634	6640	Xi'an	Shaanxi	Xi'an	8	66	male	Xi'an	15	32	male
+430	6632	6643	Xi'an	Shaanxi	Xi'an	15	70	male	Xi'an	16	70	Female
+431	6639	6647	Xi'an	Shaanxi	Xi'an	13	55	male	Xi'an	18	55	Female
+432	6635	6648	Xi'an	Shaanxi	Xiaogan City, Hubei Province	13	45	Female	Xi'an	16	13	male
+433	6634	6652	Xi'an	Shaanxi	Xi'an	8	66	male	Xi'an	8	57	Female
+434	6627	6655	Xi'an	Hubei	Wuhan	0	64	Female	Xi'an	16	62	male
+435	6656	6657	Xi'an	Hubei	Wuhan	18	39	Female	Xi'an	17	41	male
+436	6655	6664	Xi'an	Shaanxi	Wuhan	16	62	male	Xi'an	12	34	Female
+437	6642	6669	Xi'an	Shaanxi	Shanghai	14	49	Female	Xi'an	15	47	Female
+438	6634	6673	Xi'an	Shaanxi	Xi'an	8	66	male	Xi'an	15	35	Female
+439	6639	6675	Xi'an	Shaanxi	Xi'an	13	55	male	Xi'an	17	24	male
+440	6641	6680	Xi'an	Hubei	Wuhan	16	49	Female	Xi'an	18	52	male
+441	6670	6681	Xi'an	Shaanxi	Xi'an	20	54	male	Xi'an	22	53	Female
+442	6642	6683	Xi'an	Shaanxi	Shanghai	14	49	Female	Xi'an	21	50	Female
+443	6658	6685	Xi'an	Shaanxi	Wuhan	18	40	male	Xi'an	14	33	male
+444	6688	6689	Xi'an	Shaanxi	Xi'an	13	47	male	Xi'an	18	43	Female
+445	6656	6695	Xi'an	Hubei	Wuhan	18	39	Female	Xi'an	24	65	male
+446	6684	6701	Xi'an	Shaanxi	Xi'an	22	66	male	Xi'an	25	69	Female
+447	6658	6705	Xi'an	Hubei	Wuhan	18	40	male	Xi'an	20	65	Female
+448	6710	6714	Weinan	Shaanxi	Wuhan	10	68	male	Weinan	21	37	Female
+449	2811	6717	Yulin	Shaanxi	No information	5	40	male	Yulin	18	60	male
+450	6720	6721	Baoji	Shaanxi	Baoji	8	46	Female	Baoji	12	50	male
+451	6722	6724	Baoji	Hubei	Wuhan	11	46	male	Baoji	17	43	Female
+452	6722	6725	Baoji	Shaanxi	Wuhan	11	46	male	Baoji	19	64	male
+453	6722	6727	Baoji	Shaanxi	Wuhan	11	46	male	Baoji	11	56	male
+454	6723	6730	Baoji	Shaanxi	Wuhan	14	27	male	Baoji	24	71	male
+455	6623	6733	Shangluo	Shaanxi	Wuhan	10	22	male	Shangluo	15	32	Female
+456	6747	6746	Hanzhong	Hubei	Wuhan	12	38	Female	Hanzhong	17	37	male
+457	6753	6754	Hanzhong	Shaanxi	Hanzhong	21	41	male	Hanzhong	17	39	Female
+458	6776	6781	Tongchuan	Shaanxi	Wuhan	13	46	male	Tongchuan	17	74	male
+459	6776	6782	Tongchuan	Shaanxi	Wuhan	13	46	male	Tongchuan	19	76	Female
+460	6776	6783	Tongchuan	Shaanxi	Wuhan	13	46	male	Tongchuan	19	27	Female
+461	6746	6798	Xianyang	Shaanxi	Wuhan	17	37	male	Xianyang	15	41	Female
+462	6796	6799	Xianyang	Hubei	Wuhan	14	62	Female	Xianyang	18	40	male
+463	6805	6806	Daqing	Heilongjiang	Wuhan	8		Female	Daqing	8		Female
+464	6805	6807	Daqing	Heilongjiang	Wuhan	8		Female	Daqing	11		Female
+465	6805	6809	Daqing	Heilongjiang	Wuhan	8		Female	Daqing	17		Female
+466	6805	6810	Daqing	Heilongjiang	Wuhan	8		Female	Daqing	19		male
+467	6811	6812	Daqing	Heilongjiang	Wuhan	13		No information	Daqing	18		Female
+468	6811	6813	Daqing	Heilongjiang	Wuhan	13		No information	Daqing	20		male
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
