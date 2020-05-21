@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 111.358881,40.195233 ]
+   },
+   "properties": {
+   "annualCarbon":29.15,
+   "capacity":6720,
+   "coalType":"Bituminous",
+   "country":"China",
+   "plant":"Datang Tuoketuo power station",
+   "status":"Operating",
+   "type":"Subcritical",
+   "retire1":2100,
+   "retire2":2100,
+   "retire3":2100,
+   "start1":2003,
+   "start2":2017,
+   "year1":2017,
+   "year2":2019,
+   "startLabel":"2003 - 2017",
+   "regionLabel":"China"
+   
+  }
+}
+]
+}
